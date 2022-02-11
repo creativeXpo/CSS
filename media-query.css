@@ -1,0 +1,43 @@
+/*** Responsive Styles Large Desktop And Above ***/
+@media all and (min-width: 1405px) {
+  
+}
+ 
+/*** Responsive Styles Standard Desktop Only ***/
+@media all and (min-width: 1100px) and (max-width: 1405px) {
+ 
+}
+ 
+/*** Responsive Styles Tablet And Below ***/
+@media all and (max-width: 980px) {
+ 
+}
+ 
+/*** Responsive Styles Tablet Only ***/
+@media all and (min-width: 768px) and (max-width: 980px) {
+ 
+}
+ 
+/*** Responsive Styles Smartphone Only ***/
+@media all and (max-width: 767px) {
+ 
+}
+ 
+/*** Responsive Styles Smartphone Portrait ***/
+@media all and (max-width: 479px) {
+ 
+}
+
+/*** ======================================= ***/
+
+@media (min-width: 1400px){}
+
+@media (min-width: 1200px) and (max-width: 1399px){}
+
+@media (min-width: 992px) and (max-width: 1199px){}
+
+@media (min-width: 768px) and (max-width: 991px){}
+
+@media (min-width: 576px) and (max-width: 767px){}
+
+@media (max-width: 575px){}
