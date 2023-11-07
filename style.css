@@ -1,1 +1,8 @@
-/
+/*Bootstrap Equal Columns Height*/
+.row-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.content {
+  height: 100%;
+}
